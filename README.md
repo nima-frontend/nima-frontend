@@ -9,6 +9,8 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 
 ## 📊 My Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=nima-frontend&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical)
 
 
 ## 📬 Connect with Me
