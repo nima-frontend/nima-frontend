@@ -8,7 +8,7 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 - 📈 **Always Learning**: Exploring , diving into new topics, and pushing limits.
 
 ## 📊 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?nima-frontend=nima-frontend&show_icons=true&theme=radical)
 
 ## 📬 Connect with Me
 <p align="left">
