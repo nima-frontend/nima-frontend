@@ -22,5 +22,5 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 
 ---
 
-💡 *"When nothing goes right, go left."*
+💡 *"Are you a one or a zero?"*
 
