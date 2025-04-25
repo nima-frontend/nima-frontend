@@ -7,7 +7,7 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 - 🛠️ **Tech Arsenal**: JavaScript, HTML/CSS, Tailwind, and more.
 - 📈 **Always Learning**: Exploring , diving into new topics, and pushing limits.
 
-## 🚀 Tech Stack
+## ⟁ Tech Stack
 
 <div align="center">
 
