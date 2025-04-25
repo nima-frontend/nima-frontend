@@ -5,6 +5,7 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 ## 🚀 About Me
 - 💼 **Crafting Code**: Turning coffee ☕ into code with a sprinkle of chaos.
 - 🛠️ **Tech Arsenal**: JavaScript, HTML/CSS, Tailwind, and more.
+![HTML5](./icons/html.svg)
 - 📈 **Always Learning**: Exploring , diving into new topics, and pushing limits.
 
 ## 📊 My Stats
