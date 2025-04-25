@@ -5,6 +5,8 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 ## 🚀 About Me
 - 💼 **Crafting Code**: Turning coffee ☕ into code with a sprinkle of chaos.
 - 🛠️ **Tech Arsenal**: JavaScript, HTML/CSS, Tailwind, and more.
+- 📈 **Always Learning**: Exploring , diving into new topics, and pushing limits.
+
 ## 🚀 Tech Stack
 
 <div align="center">
@@ -18,8 +20,6 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
 
 </div>
-
-- 📈 **Always Learning**: Exploring , diving into new topics, and pushing limits.
 
 ## 📊 My Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-frontend&layout=compact&theme=radical)
