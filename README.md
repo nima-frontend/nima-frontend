@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Nima**!
+#  Hey, I'm **Nima**!
 
 Welcome to my digital playground. I break stuff, fix it, and sometimes make magic happen. 💻✨
 
