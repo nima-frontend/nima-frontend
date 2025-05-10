@@ -21,7 +21,7 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-## UI Libraries
+## 🕮 UI Libraries
 <div align="center">
   <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=none&logoColor=white" alt="ShadCN UI" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
