@@ -20,7 +20,12 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+## UI Libraries
+<div align="center">
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge&logo=none&logoColor=white" alt="ShadCN UI" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
 
+</div>
 ## ♜ My Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-frontend&layout=compact&theme=radical)
 
