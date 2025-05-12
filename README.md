@@ -27,10 +27,7 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
   <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
 </div>
 
-## ♜ My Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-frontend&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nima-frontend&theme=radical)
 
 
 ## 📬 Connect with Me
