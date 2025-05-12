@@ -28,7 +28,8 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 </div>
 
 ## ♜ My Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-frontend&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nima-frontend&layout=compact&theme=holi)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nima-frontend&show_icons=true&theme=holi)
 
