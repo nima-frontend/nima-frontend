@@ -33,6 +33,8 @@ Welcome to my digital playground. I break stuff, fix it, and sometimes make magi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nima-frontend&show_icons=true&theme=holi)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/nima-frontend?ext=activity)
+
 
 ## 📬 Connect with Me
 <p align="left">
