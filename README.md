@@ -1,11 +1,10 @@
-#  Hey, I'm **Nima**!
+#  About me
 
-Welcome to my digital playground. I break stuff, fix it, and sometimes make magic happen. 💻✦✧
+I build what works.
 
-## ⚛ About Me
-- **Crafting Code**: Turning coffee ☕ into code with a sprinkle of chaos.
-- **Tech Arsenal**: JavaScript, HTML/CSS, Tailwind, and more.
-- **Always Learning**: Exploring , diving into new topics, and pushing limits.
+I repair what doesn’t.
+
+No drama—just work done right.
 
 ## ⟁ Tech Stack
 
