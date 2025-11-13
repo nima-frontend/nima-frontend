@@ -4,7 +4,7 @@ I build what works.
 
 I repair what doesn’t.
 
-No drama—just work done right.
+No drama.
 
 ## ⟁ Tech Stack
 
