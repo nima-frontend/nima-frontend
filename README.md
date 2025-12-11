@@ -4,8 +4,6 @@ I build what works.
 
 I repair what doesn’t.
 
-No drama.
-
 ## ⟁ Tech Stack
 
 <div align="left">
